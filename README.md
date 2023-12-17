@@ -167,31 +167,31 @@ The project involves three main entities: User, Shoe, and Order but not limited 
 
 
 #### Login Page<a name="login-page"></a>
-![Login Page](Urban Screenshots/1.welcome.png)
+![Login Page](Urban%20Screenshots/1.welcome.png)
 
 #### Registration Page<a name="registration-page"></a>
-![Registration Page](UrbanGear-Ecommerce_SpringBoot-Final-Project/registration-page-screenshot.png)
+![Registration Page](Urban%20Screenshots/1.welcome.png)
 
 #### User Homepage<a name="user-homepage"></a>
-![User Homepage](path/to/user-homepage-screenshot.png)
+![User Homepage](Urban%20Screenshots/1.welcome.png)
 
 #### Checkout Page<a name="checkout-page"></a>
-![Checkout Page](path/to/checkout-page-screenshot.png)
+![Checkout Page](Urban%20Screenshots/1.welcome.png)
 
 #### Success Order Page<a name="success-order-page"></a>
-![Success Order Page](path/to/success-order-page-screenshot.png)
+![Success Order Page](Urban%20Screenshots/1.welcome.png)
 
 #### Admin Welcome Page<a name="admin-welcome-page"></a>
-![Admin Welcome Page](path/to/admin-welcome-page-screenshot.png)
+![Admin Welcome Page](Urban%20Screenshots/1.welcome.png)
 
 #### Admin Insert Item Page<a name="admin-insert-item-page"></a>
-![Admin Insert Item Page](path/to/admin-insert-item-page-screenshot.png)
+![Admin Insert Item Page](Urban%20Screenshots/1.welcome.png)
 
 #### Admin Items List Page<a name="admin-items-list-page"></a>
-![Admin Items List Page](path/to/admin-items-list-page-screenshot.png)
+![Admin Items List Page](Urban%20Screenshots/1.welcome.png)
 
 #### Admin Contact Form Page<a name="admin-Contact Form-page"></a>
-![Admin Contact Form Page](path/to/admin-Contact-Form-page-screenshot.png)
+![Admin Contact Form Page](Urban%20Screenshots/1.welcome.png)
 
 ---
 

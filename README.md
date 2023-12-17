@@ -20,7 +20,7 @@
    - [Admin Welcome Page](#admin-welcome-page)
    - [Admin Insert Item Page](#admin-insert-item-page)
    - [Admin Items List Page](#admin-items-list-page)
-   - [Admin Update Manage Orders Page](#admin-update-manage-orders-page)
+   - [Admin Contact Form Page](#admin-Contact-Form-page)
 
 ---
 
@@ -68,6 +68,16 @@ The project plan outlines the scope, timeline, and resources used to complete th
 ### 4. Source Code<a name="source-code"></a>
 
 #### 4.1 Maven Spring Boot Application
+
+### Prerequisites
+
+Before running the application, ensure you have the following installed:
+
+- Java Development Kit (JDK)
+- Maven
+- MySQL Server
+- Redis Server
+
 To run the application, execute the following Maven command in the terminal:
 
 ```bash
@@ -88,7 +98,101 @@ Start the MySQL server using your preferred method or the following command:
 mysql.server start
 ```
 
-### 5. Database Schema<a name="database-schema"></a>
+
+### 6. User Documentation<a name="user-documentation"></a>
+
+#### 6.1 User Journey
+1. **Login and Registration:**
+   - Navigate to the login or registration page.
+   - Provide credentials for login or fill in the registration form.
+   - Click "Submit" to proceed.
+
+2. **Browsing and Adding to Cart:**
+   - Explore the user homepage showcasing available shoe collections.
+   - Click on a shoe to view details.
+   - Add desired items to the cart.
+   - Navigate to the cart to review and modify selections.
+
+3. **Checkout and Payment:**
+   - Proceed to checkout.
+   - Review items and modify the cart if needed.
+   - Enter payment information in the form.
+   - Click "Complete Purchase" to confirm.
+
+4. **Order Confirmation:**
+   - Receive a confirmation email.
+   - View the success order page for details.
+
+5. **Contact Form:**
+   - Use the navbar to access the contact form.
+   - Submit inquiries or requests.
+
+6. **Logout:**
+   - Terminate the session by clicking "Logout."
+
+### 7. Technical Documentation<a name="technical-documentation"></a>
+
+#### 7.1 Technology Stack
+- Frontend: HTML, CSS, Bootstrap, Javascript,jQuery
+- Backend: Java, Spring Boot
+- Database: MySQL
+- Dependencies: Spring Data JPA, Spring Web, Spring Boot DevTools, Lombok, Spring Boot Test, Spring Boot Data Redis, Spring Session Data Redis, Spring Boot Mail
+- Server: Redis Cache Server
+
+#### 7.2 Implementation Steps
+I followed these steps to implement the Urban Gear Ecommerce Platform:
+1. Identify Requirements
+2. Design Database
+3. Create Spring Boot Project
+4. Set Up Database
+5. Create Domain Model
+6. Implement Service Layer
+7. Implement Controller Layer
+8. Implement View Layer
+9. Test Web Application
+10. Deploy on GitHub
+
+
+
+### 5. Database Schema<a name="database-schema"></a> Entity Relationships
 
 #### 5.1 Entity Relationships
-The project involves three main entities: User, Shoe, and Order. Their relationships are illustrated in the following diagram:
+The project involves three main entities: User, Shoe, and Order but not limited to ContactForm entity.
+
+### 6. Screenshots<a name="screenshots"></a>
+
+#### Welcome Page<a name="welcome-page"></a>
+![Welcome Page](path/to/welcome-page-screenshot.png)
+
+#### Login Page<a name="login-page"></a>
+![Login Page](path/to/login-page-screenshot.png)
+
+#### Registration Page<a name="registration-page"></a>
+![Registration Page](path/to/registration-page-screenshot.png)
+
+#### User Homepage<a name="user-homepage"></a>
+![User Homepage](path/to/user-homepage-screenshot.png)
+
+#### Checkout Page<a name="checkout-page"></a>
+![Checkout Page](path/to/checkout-page-screenshot.png)
+
+#### Success Order Page<a name="success-order-page"></a>
+![Success Order Page](path/to/success-order-page-screenshot.png)
+
+#### Admin Welcome Page<a name="admin-welcome-page"></a>
+![Admin Welcome Page](path/to/admin-welcome-page-screenshot.png)
+
+#### Admin Insert Item Page<a name="admin-insert-item-page"></a>
+![Admin Insert Item Page](path/to/admin-insert-item-page-screenshot.png)
+
+#### Admin Items List Page<a name="admin-items-list-page"></a>
+![Admin Items List Page](path/to/admin-items-list-page-screenshot.png)
+
+#### Admin Contact Form Page<a name="admin-Contact Form-page"></a>
+![Admin Contact Form Page](path/to/admin-Contact-Form-page-screenshot.png)
+
+---
+
+### Conclusion
+This comprehensive documentation outlines the project scope, plan, stack, and user/admin journeys. Follow the setup steps to run the application and ensure a smooth user experience. Any further enhancements or modifications can be incorporated based on the evolving requirements of the Urban Gear Shoes E-commerce platform.
+

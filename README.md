@@ -166,7 +166,7 @@ The project involves three main entities: User, Shoe, and Order but not limited 
 
 
 #### Login Page<a name="login-page"></a>
-![Login Page](Urban%20Screenshots/2.login page.png)
+![Login Page](Urban%20Screenshots/2.login%20page.png)
 
 #### Registration Page<a name="registration-page"></a>
 ![Registration Page](Urban%20Screenshots/1.welcome.png)

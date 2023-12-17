@@ -172,25 +172,25 @@ The project involves three main entities: User, Shoe, and Order but not limited 
 ![Registration Page](Urban%20Screenshots/3.%20registration%20page.png)
 
 #### User Homepage<a name="user-homepage"></a>
-![User Homepage](Urban%20Screenshots/1.welcome.png)
+![User Homepage](Urban%20Screenshots/4.user%20homepage.png)
 
 #### Checkout Page<a name="checkout-page"></a>
-![Checkout Page](Urban%20Screenshots/1.welcome.png)
+![Checkout Page](Urban%20Screenshots/5.checkout%20page.png)
 
 #### Success Order Page<a name="success-order-page"></a>
-![Success Order Page](Urban%20Screenshots/1.welcome.png)
+![Success Order Page](Urban%20Screenshots/5.success%20page.png)
 
 #### Admin Welcome Page<a name="admin-welcome-page"></a>
-![Admin Welcome Page](Urban%20Screenshots/1.welcome.png)
+![Admin Welcome Page](Urban%20Screenshots/6.admin%20welcome%20page.png)
 
 #### Admin Insert Item Page<a name="admin-insert-item-page"></a>
-![Admin Insert Item Page](Urban%20Screenshots/1.welcome.png)
+![Admin Insert Item Page](Urban%20Screenshots/7.%20admin%20insert%20item.png)
 
 #### Admin Items List Page<a name="admin-items-list-page"></a>
-![Admin Items List Page](Urban%20Screenshots/1.welcome.png)
+![Admin Items List Page](Urban%20Screenshots/8.%20admin%20items%20list.png)
 
 #### Admin Contact Form Page<a name="admin-Contact Form-page"></a>
-![Admin Contact Form Page](Urban%20Screenshots/1.welcome.png)
+![Admin Contact Form Page](Urban%20Screenshots/9.%20admin%20contact%20form.png)
 
 ---
 

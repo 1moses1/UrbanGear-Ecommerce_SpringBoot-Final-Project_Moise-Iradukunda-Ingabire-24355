@@ -169,7 +169,7 @@ The project involves three main entities: User, Shoe, and Order but not limited 
 ![Login Page](Urban Screenshots/1.welcome.png)
 
 #### Registration Page<a name="registration-page"></a>
-![Registration Page](path/to/registration-page-screenshot.png)
+![Registration Page](UrbanGear-Ecommerce_SpringBoot-Final-Project/registration-page-screenshot.png)
 
 #### User Homepage<a name="user-homepage"></a>
 ![User Homepage](path/to/user-homepage-screenshot.png)
